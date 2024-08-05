@@ -56,7 +56,7 @@ export default defineConfig(({ command, mode, isSsrBuild, isPreview }) => {
         },
       }),
     ],
-    define: { 'process.env': {} },
+      define: { 'process.env': {} },
     resolve: {
       alias: {
         '@': fileURLToPath(new URL('./src', import.meta.url)),
@@ -72,6 +72,7 @@ export default defineConfig(({ command, mode, isSsrBuild, isPreview }) => {
       ],
     },
     server: {
-      port: 3000,
+      port: 667,
     },
-}})
+  }
+})

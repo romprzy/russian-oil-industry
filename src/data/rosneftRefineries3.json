@@ -1,0 +1,887 @@
+{
+  "updated": "2024-05-24T13:32:13.922Z",
+  "refineries": [
+    {
+      "en": {
+        "slug": "tuapsinskijnpz",
+        "url": "https://tuapsinskijnpz.rosneft.com/about/Rosneft_today/Operational_structure/Refining/tuapsinskijnpz/Operating_highlights/",
+        "name": "Tuapse Refinery",
+        "years": [
+          2016,
+          2017,
+          2018
+        ],
+        "items": [
+          {
+            "2016": 9.84,
+            "2017": 11.03,
+            "2018": 10.75,
+            "name": "totalMlnT"
+          },
+          {
+            "2016": 66.42,
+            "2017": 67.43,
+            "2018": 64.66,
+            "name": "processingPercentage"
+          },
+          {
+            "2016": 9.75,
+            "2017": 10.93,
+            "2018": 10.67,
+            "name": "oilProductsProduction"
+          },
+          {
+            "2016": 1.93,
+            "2017": 2.25,
+            "2018": 2.05,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2016": 2.92,
+            "2017": 3.32,
+            "2018": 3.19,
+            "name": "dieselFuel"
+          },
+          {
+            "2016": 3.27,
+            "2017": 3.57,
+            "2018": 3.78,
+            "name": "fuelOil"
+          }
+        ]
+      },
+      "ru": {
+        "slug": "tnpz",
+        "url": "https://tnpz.rosneft.ru/about/Glance/OperationalStructure/Pererabotka/tnpz/Osnovnie_pokazateli/",
+        "name": "ООО «РН-Туапсинский НПЗ»",
+        "years": [
+          2018,
+          2019,
+          2020
+        ],
+        "items": [
+          {
+            "2018": 10.75,
+            "2019": 9,
+            "2020": 9.03,
+            "name": "totalMlnT"
+          },
+          {
+            "2018": 64.66,
+            "2019": 66.13,
+            "2020": 65.43,
+            "name": "processingPercentage"
+          },
+          {
+            "2018": 10.67,
+            "2019": 8.93,
+            "2020": 8.98,
+            "name": "oilProductsProduction"
+          },
+          {
+            "2018": 2.25,
+            "2019": 2.05,
+            "2020": 1.61,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2018": 3.32,
+            "2019": 3.19,
+            "2020": 2.82,
+            "name": "dieselFuel"
+          },
+          {
+            "2018": 3.57,
+            "2019": 3.78,
+            "2020": 3.1,
+            "name": "fuelOil"
+          }
+        ]
+      }
+    },
+    {
+      "en": {
+        "slug": "KomsomolskRefinery",
+        "url": "https://komsomolskrefinery.rosneft.com/about/Rosneft_today/Operational_structure/Refining/KomsomolskRefinery/Operating_highlights/",
+        "name": "Komsomolsky Refinery",
+        "years": [
+          2016,
+          2017,
+          2018
+        ],
+        "items": [
+          {
+            "2016": 6.24,
+            "2017": 6.44,
+            "2018": 6.59,
+            "name": "totalMlnT"
+          },
+          {
+            "2016": 79.83,
+            "2017": 89.23,
+            "2018": 89.14,
+            "name": "processingPercentage"
+          },
+          {
+            "2016": 6.08,
+            "2017": 6.32,
+            "2018": 6.43,
+            "name": "oilProductsProduction"
+          },
+          {
+            "2016": 1.14,
+            "2017": 1.23,
+            "2018": 1.15,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2016": 1.71,
+            "2017": 1.86,
+            "2018": 1.52,
+            "name": "dieselFuel"
+          },
+          {
+            "2016": 1.22,
+            "2017": 0.66,
+            "2018": 0.68,
+            "name": "fuelOil"
+          }
+        ]
+      },
+      "ru": {
+        "slug": "rnknpz",
+        "url": "https://rnknpz.rosneft.ru/about/Glance/OperationalStructure/Pererabotka/rnknpz/Osnovnie_pokazateli/",
+        "name": "ООО «РН-Комсомольский НПЗ»",
+        "years": [
+          2018,
+          2019,
+          2020
+        ],
+        "items": [
+          {
+            "2018": 6.59,
+            "2019": 7.23,
+            "2020": 5.86,
+            "name": "totalMlnT"
+          },
+          {
+            "2018": 89.14,
+            "2019": 75.95,
+            "2020": 63.12,
+            "name": "processingPercentage"
+          },
+          {
+            "2018": 6.43,
+            "2019": 7.09,
+            "2020": 5.73,
+            "name": "totalMlnT"
+          },
+          {
+            "2018": 1.15,
+            "2019": 1.19,
+            "2020": 1,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2018": 1.52,
+            "2019": 1.91,
+            "2020": 1.27,
+            "name": "dieselFuel"
+          },
+          {
+            "2018": 0.68,
+            "2019": 1.71,
+            "2020": 2.14,
+            "name": "fuelOil"
+          }
+        ]
+      }
+    },
+    {
+      "en": {
+        "slug": "KuibyshevRefinery",
+        "url": "https://kuibyshevrefinery.rosneft.com/about/Rosneft_today/Operational_structure/Refining/KuibyshevRefinery/Operating_highlights/",
+        "name": "Kuibyshevsky Refinery",
+        "years": [
+          2016,
+          2017,
+          2018
+        ],
+        "items": [
+          {
+            "2016": 6.11,
+            "2017": 5.2,
+            "2018": 5.69,
+            "name": "totalMlnT"
+          },
+          {
+            "2016": 60.15,
+            "2017": 65.38,
+            "2018": 65.14,
+            "name": "processingPercentage"
+          },
+          {
+            "2016": 5.62,
+            "2017": 4.82,
+            "2018": 5.24,
+            "name": "oilProductsProduction"
+          },
+          {
+            "2016": 1.29,
+            "2017": 1.28,
+            "2018": 1.4,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2016": 1.86,
+            "2017": 1.61,
+            "2018": 1.78,
+            "name": "dieselFuel"
+          },
+          {
+            "2016": 2.29,
+            "2017": 1.69,
+            "2018": 1.88,
+            "name": "fuelOil"
+          }
+        ]
+      },
+      "ru": {
+        "slug": "knpz",
+        "url": "https://knpz.rosneft.ru/about/Glance/OperationalStructure/Pererabotka/knpz/Osnovnie_pokazateli/",
+        "name": "АО «Куйбышевский НПЗ»",
+        "years": [
+          2018,
+          2019,
+          2020
+        ],
+        "items": [
+          {
+            "2018": 5.69,
+            "2019": 5.09,
+            "2020": 4.46,
+            "name": "totalMlnT"
+          },
+          {
+            "2018": 65.14,
+            "2019": 66.12,
+            "2020": 66.21,
+            "name": "processingPercentage"
+          },
+          {
+            "2018": 5.24,
+            "2019": 4.64,
+            "2020": 4.09,
+            "name": "totalMlnT"
+          },
+          {
+            "2018": 1.4,
+            "2019": 1.28,
+            "2020": 1.15,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2018": 1.78,
+            "2019": 1.58,
+            "2020": 1.36,
+            "name": "dieselFuel"
+          },
+          {
+            "2018": 1.88,
+            "2019": 1.63,
+            "2020": 1.43,
+            "name": "fuelOil"
+          }
+        ]
+      }
+    },
+    {
+      "en": {
+        "slug": "NovokuibyshevskRefinery",
+        "url": "https://novokuibyshevskrefinery.rosneft.com/about/Rosneft_today/Operational_structure/Refining/NovokuibyshevskRefinery/Operating_highlights/",
+        "name": "Novokuibyshevsky Refinery",
+        "years": [
+          2016,
+          2017,
+          2018
+        ],
+        "items": [
+          {
+            "2016": 7.13,
+            "2017": 8.05,
+            "2018": 6.95,
+            "name": "totalMlnT"
+          },
+          {
+            "2016": 75.26,
+            "2017": 73.94,
+            "2018": 75.24,
+            "name": "processingPercentage"
+          },
+          {
+            "2016": 6.39,
+            "2017": 7.17,
+            "2018": 6.24,
+            "name": "oilProductsProduction"
+          },
+          {
+            "2016": 1.38,
+            "2017": 1.42,
+            "2018": 1.27,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2016": 1.8,
+            "2017": 2.21,
+            "2018": 1.98,
+            "name": "dieselFuel"
+          },
+          {
+            "2016": 2.43,
+            "2017": 2.8,
+            "2018": 2.99,
+            "name": "blackOilOthers"
+          }
+        ]
+      },
+      "ru": {
+        "slug": "nknpz",
+        "url": "https://nknpz.rosneft.ru/about/Glance/OperationalStructure/Pererabotka/nknpz/Osnovnie_pokazateli/",
+        "name": "АО «Новокуйбышевский НПЗ»",
+        "years": [
+          2018,
+          2019,
+          2020
+        ],
+        "items": [
+          {
+            "2018": 6.95,
+            "2019": 7.85,
+            "2020": 6.75,
+            "name": "totalMlnT"
+          },
+          {
+            "2018": 75.24,
+            "2019": 74.16,
+            "2020": 74.13,
+            "name": "processingPercentage"
+          },
+          {
+            "2018": 6.24,
+            "2019": 7.11,
+            "2020": 6.08,
+            "name": "totalMlnT"
+          },
+          {
+            "2018": 1.27,
+            "2019": 1.5,
+            "2020": 1.23,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2018": 1.98,
+            "2019": 2.2,
+            "2020": 1.76,
+            "name": "dieselFuel"
+          },
+          {
+            "2018": 2.99,
+            "2019": 2.77,
+            "2020": 2.34,
+            "name": "fuelOilOthers"
+          }
+        ]
+      }
+    },
+    {
+      "en": {
+        "slug": "SyzranRefinery",
+        "url": "https://syzranrefinery.rosneft.com/about/Rosneft_today/Operational_structure/Refining/SyzranRefinery/Operating_highlights/",
+        "name": "Syzran Refinery",
+        "years": [
+          2016,
+          2017,
+          2018
+        ],
+        "items": [
+          {
+            "2016": 6.32,
+            "2017": 5.94,
+            "2018": 6.91,
+            "name": "totalMlnT"
+          },
+          {
+            "2016": 72.8,
+            "2017": 76.2,
+            "2018": 76.9,
+            "name": "processingPercentage"
+          },
+          {
+            "2016": 6.01,
+            "2017": 5.62,
+            "2018": 6.5,
+            "name": "oilProductsProduction"
+          },
+          {
+            "2016": 1.37,
+            "2017": 1.26,
+            "2018": 1.41,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2016": 2.01,
+            "2017": 1.96,
+            "2018": 2.35,
+            "name": "dieselFuel"
+          },
+          {
+            "2016": 1.59,
+            "2017": 1.34,
+            "2018": 1.51,
+            "name": "fuelOil"
+          }
+        ]
+      },
+      "ru": {
+        "slug": "snpz",
+        "url": "https://snpz.rosneft.ru/about/Glance/OperationalStructure/Pererabotka/snpz/Osnovnie_pokazateli/",
+        "name": "АО «Сызранский НПЗ»",
+        "years": [
+          2018,
+          2019,
+          2020
+        ],
+        "items": [
+          {
+            "2018": 6.91,
+            "2019": 6.12,
+            "2020": 6.52,
+            "name": "totalMlnT"
+          },
+          {
+            "2018": 76.9,
+            "2019": 78.04,
+            "2020": 79.01,
+            "name": "processingPercentage"
+          },
+          {
+            "2018": 6.5,
+            "2019": 5.75,
+            "2020": 6.17,
+            "name": "oilProductsProduction"
+          },
+          {
+            "2018": 1.41,
+            "2019": 1.25,
+            "2020": 1.26,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2018": 2.35,
+            "2019": 2.1,
+            "2020": 2.22,
+            "name": "dieselFuel"
+          },
+          {
+            "2018": 1.51,
+            "2019": 1.28,
+            "2020": 1.31,
+            "name": "fuelOil"
+          }
+        ]
+      }
+    },
+    {
+      "en": {
+        "slug": "AchinskRefinery",
+        "url": "https://achinskrefinery.rosneft.com/about/Rosneft_today/Operational_structure/Refining/AchinskRefinery/Operating_highlights/",
+        "name": "Achinsk Refinery",
+        "years": [
+          2016,
+          2017,
+          2018
+        ],
+        "items": [
+          {
+            "2016": 7.1,
+            "2017": 6.32,
+            "2018": 6.99,
+            "name": "totalMlnT"
+          },
+          {
+            "2016": 69.78,
+            "2017": 70.42,
+            "2018": 69.55,
+            "name": "processingPercentage"
+          },
+          {
+            "2016": 6.86,
+            "2017": 6.05,
+            "2018": 6.71,
+            "name": "oilProductsProduction"
+          },
+          {
+            "2016": 1.28,
+            "2017": 1.16,
+            "2018": 1.2,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2016": 2.15,
+            "2017": 1.94,
+            "2018": 2.12,
+            "name": "dieselFuel"
+          },
+          {
+            "2016": 2.01,
+            "2017": 1.75,
+            "2018": 2.01,
+            "name": "fuelOil"
+          }
+        ]
+      },
+      "ru": {
+        "slug": "anpz",
+        "url": "https://anpz.rosneft.ru/about/Glance/OperationalStructure/Pererabotka/anpz/Osnovnie_pokazateli/",
+        "name": "АО «Ачинский НПЗ ВНК»",
+        "years": [
+          2018,
+          2019,
+          2020
+        ],
+        "items": [
+          {
+            "2018": 6.99,
+            "2019": 6.34,
+            "2020": 7.15,
+            "name": "totalMlnT"
+          },
+          {
+            "2018": 69.55,
+            "2019": 68.67,
+            "2020": 65.57,
+            "name": "processingPercentage"
+          },
+          {
+            "2018": 6.71,
+            "2019": 6.08,
+            "2020": 6.89,
+            "name": "oilProductsProduction"
+          },
+          {
+            "2018": 1.2,
+            "2019": 1.06,
+            "2020": 1.18,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2018": 2.12,
+            "2019": 1.95,
+            "2020": 2.22,
+            "name": "dieselFuel"
+          },
+          {
+            "2018": 2.01,
+            "2019": 1.88,
+            "2020": 2.34,
+            "name": "fuelOil"
+          }
+        ]
+      }
+    },
+    {
+      "en": {
+        "slug": "rnanhk",
+        "url": "https://rnanhk.rosneft.com/about/Rosneft_today/Operational_structure/Refining/rnanhk/Operating_highlights/",
+        "name": "Angarsk Petrochemical Company",
+        "years": [
+          2016,
+          2017,
+          2018
+        ],
+        "items": [
+          {
+            "2016": 9.2,
+            "2017": 9.62,
+            "2018": 9.04,
+            "name": "totalMlnT"
+          },
+          {
+            "2016": 76.47,
+            "2017": 81.31,
+            "2018": 81.82,
+            "name": "processingPercentage"
+          },
+          {
+            "2016": 8.4,
+            "2017": 8.49,
+            "2018": 7.92,
+            "name": "oilProductsProduction"
+          },
+          {
+            "2016": 2.2,
+            "2017": 1.48,
+            "2018": 1.49,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2016": 2.6,
+            "2017": 2.7,
+            "2018": 2.37,
+            "name": "dieselFuel"
+          },
+          {
+            "2016": 1.95,
+            "2017": 1.54,
+            "2018": 1.41,
+            "name": "fuelOil"
+          }
+        ]
+      },
+      "ru": {
+        "slug": "aoanhk",
+        "url": "https://aoanhk.rosneft.ru/about/Glance/OperationalStructure/Pererabotka/aoanhk/Osnovnie_pokazateli/",
+        "name": "АО «Ангарская нефтехимическая компания»",
+        "years": [
+          2018,
+          2019,
+          2020
+        ],
+        "items": [
+          {
+            "2018": 9.04,
+            "2019": 8.93,
+            "2020": 925,
+            "name": "totalMlnT"
+          },
+          {
+            "2018": 81.82,
+            "2019": 80.54,
+            "2020": 8224,
+            "name": "processingPercentage"
+          },
+          {
+            "2018": 7.92,
+            "2019": 7.99,
+            "2020": 823,
+            "name": "totalMlnT"
+          },
+          {
+            "2018": 1.49,
+            "2019": 1.3,
+            "2020": 143,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2018": 2.37,
+            "2019": 2.29,
+            "2020": 220,
+            "name": "dieselFuel"
+          },
+          {
+            "2018": 1.41,
+            "2019": 1.5,
+            "2020": 143,
+            "name": "fuelOil"
+          }
+        ]
+      }
+    },
+    {
+      "en": {
+        "slug": "sarnpz",
+        "url": "https://sarnpz.rosneft.com/about/Rosneft_today/Operational_structure/Refining/sarnpz/KeyIndicators/",
+        "name": "Saratovsky Refinery",
+        "years": [
+          2016,
+          2017,
+          2018
+        ],
+        "items": [
+          {
+            "2016": 5.9,
+            "2017": 5.77,
+            "2018": 6.71,
+            "name": "totalMlnT"
+          },
+          {
+            "2016": 79.66,
+            "2017": 79.4,
+            "2018": 81.2,
+            "name": "processingPercentage"
+          },
+          {
+            "2016": 5.65,
+            "2017": 5.56,
+            "2018": 6.5,
+            "name": "oilProductsProduction"
+          },
+          {
+            "2016": 1.17,
+            "2017": 1.12,
+            "2018": 1.36,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2016": 1.78,
+            "2017": 1.76,
+            "2018": 2.14,
+            "name": "dieselFuel"
+          },
+          {
+            "2016": 2.34,
+            "2017": 2.64,
+            "2018": 3,
+            "name": "blackOilOthers"
+          }
+        ]
+      },
+      "ru": {
+        "slug": "sarnpz",
+        "url": "https://sarnpz.rosneft.ru/about/Glance/OperationalStructure/Pererabotka/sarnpz/Osnovnie_pokazateli/",
+        "name": "ПАО «Саратовский НПЗ»",
+        "years": [
+          2018,
+          2019,
+          2020
+        ],
+        "items": [
+          {
+            "2018": 6.71,
+            "2019": 5.62,
+            "2020": 625,
+            "name": "totalMlnT"
+          },
+          {
+            "2018": 81.2,
+            "2019": 81.8,
+            "2020": 8006,
+            "name": "processingPercentage"
+          },
+          {
+            "2018": 6.5,
+            "2019": 5.43,
+            "2020": 610,
+            "name": "totalMlnT"
+          },
+          {
+            "2018": 1.36,
+            "2019": 1.12,
+            "2020": 127,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2018": 2.14,
+            "2019": 1.74,
+            "2020": 184,
+            "name": "dieselFuel"
+          },
+          {
+            "2018": 3,
+            "2019": 2.57,
+            "2020": 286,
+            "name": "fuelOilOthers"
+          }
+        ]
+      }
+    },
+    {
+      "en": {
+        "slug": "rnpk",
+        "url": "https://rnpk.rosneft.com/about/Rosneft_today/Operational_structure/Refining/rnpk/KeyIndicators/",
+        "name": "Ryazan Oil Refining Company",
+        "years": [
+          2016,
+          2017,
+          2018
+        ],
+        "items": [
+          {
+            "2016": 15.35,
+            "2017": 13.34,
+            "2018": 1551,
+            "name": "totalMlnT"
+          },
+          {
+            "2016": 69.77,
+            "2017": 70.75,
+            "2018": 70.73,
+            "name": "processingPercentage"
+          },
+          {
+            "2016": 14.72,
+            "2017": 12.92,
+            "2018": 1494,
+            "name": "oilProductsProduction"
+          },
+          {
+            "2016": 3.47,
+            "2017": 3.28,
+            "2018": 3.23,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2016": 3.74,
+            "2017": 3.08,
+            "2018": 3.81,
+            "name": "dieselFuel"
+          },
+          {
+            "2016": 4.52,
+            "2017": 3.82,
+            "2018": 4.46,
+            "name": "fuelOil"
+          }
+        ]
+      },
+      "ru": {
+        "slug": "rnpk",
+        "url": "https://rnpk.rosneft.ru/about/Glance/OperationalStructure/Pererabotka/rnpk/Osnovnie_pokazateli/",
+        "name": "АО «Рязанская нефтеперерабатывающая компания»",
+        "years": [
+          2018,
+          2019,
+          2020
+        ],
+        "items": [
+          {
+            "2018": 1551,
+            "2019": 15.78,
+            "2020": 13.05,
+            "name": "totalMlnT"
+          },
+          {
+            "2018": 70.73,
+            "2019": 72.44,
+            "2020": 74.31,
+            "name": "processingPercentage"
+          },
+          {
+            "2018": 1494,
+            "2019": 15.21,
+            "2020": 12.58,
+            "name": "totalMlnT"
+          },
+          {
+            "2018": 3.23,
+            "2019": 3.62,
+            "2020": 3.06,
+            "name": "gasolineInclStraight"
+          },
+          {
+            "2018": 3.81,
+            "2019": 3.81,
+            "2020": 3.6,
+            "name": "dieselFuel"
+          },
+          {
+            "2018": 4.46,
+            "2019": 4.27,
+            "2020": 3.27,
+            "name": "fuelOil"
+          }
+        ]
+      }
+    }
+  ]
+}

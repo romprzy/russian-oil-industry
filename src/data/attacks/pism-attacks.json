@@ -1,0 +1,205 @@
+[
+  {
+    "id": "Rostov.NZNP",
+    "date": "22.06.2022",
+    "consequences": "brak",
+    "details": "",
+    "shutdown time": ""
+  },
+  {
+    "id": "Rostov.NZNP",
+    "date": "4.05.2023",
+    "consequences": "brak",
+    "details": "",
+    "shutdown time": ""
+  },
+  {
+    "id": "Ilsky",
+    "date": "4.05.2023",
+    "consequences": "brak",
+    "details": "",
+    "shutdown time": ""
+  },
+  {
+    "id": "Afipsky",
+    "date": "31.05.2023",
+    "consequences": "brak",
+    "details": "",
+    "shutdown time": ""
+  },
+  {
+    "id": "Afipsky",
+    "date": "29.10.2023",
+    "consequences": "brak",
+    "details": "",
+    "shutdown time": ""
+  },
+  {
+    "id": "Ryazan.RNPK",
+    "date": "27.11.2023",
+    "consequences": "brak",
+    "details": "",
+    "shutdown time": ""
+  },
+  {
+    "id": "Ust-Luga",
+    "date": "21.01.2024",
+    "consequences": "wyłączenie",
+    "details": "zakład przetwórczy wyłączony z użytku",
+    "shutdown time": "około miesiąca; wznowienie prac 20 II"
+  },
+  {
+    "id": "Tuapse",
+    "date": "25.01.2024",
+    "consequences": "wyłączenie",
+    "details": "zakład całkowicie wyłączony z użytku, uszkodzona instalacja destylacji prózniowej (VDU)",
+    "shutdown time": "trzy miesiące; wznowienie prac pod koniec kwietnia (informacja Z 6 V)"
+  },
+  {
+    "id": "Yaroslavl.Slavneft-YANOS",
+    "date": "29.01.2024",
+    "consequences": "brak",
+    "details": "",
+    "shutdown time": ""
+  },
+  {
+    "id": "NORSI-oil",
+    "date": "31.01.2024",
+    "consequences": "brak",
+    "details": "",
+    "shutdown time": ""
+  },
+  {
+    "id": "Volgograd",
+    "date": "3.02.2024",
+    "consequences": "częściowe",
+    "details": "uszkodzenie instalacji destylacji atmosferycznej (CDU-5)",
+    "shutdown time": ""
+  },
+  {
+    "id": "Ilsky",
+    "date": "9.02.2024",
+    "consequences": "niewielkie",
+    "details": "",
+    "shutdown time": "do kilku dni"
+  },
+  {
+    "id": "Kirishi.KINEF",
+    "date": "marzec 2024",
+    "consequences": "brak",
+    "details": "",
+    "shutdown time": ""
+  },
+  {
+    "id": "NORSI-oil",
+    "date": "12.03.2024",
+    "consequences": "częściowe",
+    "details": "zaktad częściowo wyłączony z użytku (szczególnie produkcja benzyny wysokooktanowej), uszkodzona zostala instalacja destylacji atmosferycznej (CDU)",
+    "shutdown time": "pracy na uszkodzonych instalacjach nie wznowiono ze wzgledu na trudnosci związane z wymiana uszkodzonych elementów (stan na 15 V)"
+  },
+  {
+    "id": "Ryazan.RNPK",
+    "date": "13.03.2024",
+    "consequences": "częściowe",
+    "details": "uszkodzenie dwóch instalacji destylacji atmosferycznej (CDU-6 oraz CDU-4; odpowiadaly za 70% catosci przetworstwa)",
+    "shutdown time": "dwa tygodnie przestoju pracy CDU-4, na której wznowiono produkcję 28 kwietnia"
+  },
+  {
+    "id": "Rostov.NZNP",
+    "date": "13.03.2024",
+    "consequences": "brak",
+    "details": "",
+    "shutdown time": ""
+  },
+  {
+    "id": "Syzran",
+    "date": "16.03.2024",
+    "consequences": "wyłączenie",
+    "details": "",
+    "shutdown time": "pracy na uszkodzonych instalacjach nie wznowiono (stan na 15 V)"
+  },
+  {
+    "id": "Novokuibyshevsk",
+    "date": "16.03.2024",
+    "consequences": "brak",
+    "details": "",
+    "shutdown time": "dron eksplodował na terenie rafinerii, co wywołało pożar, jednak rafineria miała wznowić pracę dzień później"
+  },
+  {
+    "id": "Slavyansk.ECO",
+    "date": "17.03.2024",
+    "consequences": "częściowe",
+    "details": "zniszczone instalacje destylacji próżniowej i atmosferycznej (VDU i CDU)",
+    "shutdown time": ""
+  },
+  {
+    "id": "Novokuibyshevsk",
+    "date": "23.03.2024",
+    "consequences": "brak",
+    "details": "",
+    "shutdown time": ""
+  },
+  {
+    "id": "Kuibyshevsk",
+    "date": "23.03.2024",
+    "consequences": "wyłączenie",
+    "details": "zakład wyłączony z użytku, nie działają dwie instalacje destylacji atmosferycznej (CDU-4 i CDU-5)",
+    "shutdown time": ""
+  },
+  {
+    "id": "Nizhnekamsk.TANEKO",
+    "date": "02.04.2024",
+    "consequences": "brak",
+    "details": "",
+    "shutdown time": ""
+  },
+  {
+    "id": "Rostov.NZNP",
+    "date": "12.04.2024",
+    "consequences": "brak",
+    "details": "",
+    "shutdown time": ""
+  },
+  {
+    "id": "Ilsky",
+    "date": "27.04.2024",
+    "consequences": "brak",
+    "details": "",
+    "shutdown time": ""
+  },
+  {
+    "id": "Slavyansk.ECO",
+    "date": "27.04.2024",
+    "consequences": "wyłączenie",
+    "details": "zniszczona kolejna instalacja destylacji atmosferycznej (CDU)",
+    "shutdown time": "zakład wyłączony z użytku, nie działają dwie instalacje destylacji atmosferycznej (CDU-4 i CDU-5)"
+  },
+  {
+    "id": "Ryazan.RNPK",
+    "date": "1.05.2024",
+    "consequences": "częściowe",
+    "details": "ponowne uderzenie W CDU-4",
+    "shutdown time": ""
+  },
+  {
+    "id": "Afipsky",
+    "date": "02.05.2024",
+    "consequences": "brak",
+    "details": "",
+    "shutdown time": ""
+  },
+  {
+    "id": "Salavat",
+    "date": "09.05.2024",
+    "consequences": "częściowe",
+    "details": "uszkodzona część instalacji krakingu katalitycznego",
+    "shutdown time": ""
+  },
+  {
+    "id": "Kaluga",
+    "date": "10.05.2024",
+    "consequences": "brak",
+    "details": "",
+    "shutdown time": ""
+  }
+]

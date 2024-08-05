@@ -1,0 +1,437 @@
+{
+  "updated": "2024-05-24T00:33:17.355Z",
+  "refineries": [
+    {
+      "slug": "tuapsinskijnpz",
+      "url": "https://tuapsinskijnpz.rosneft.com/about/Rosneft_today/Operational_structure/Refining/tuapsinskijnpz/Operating_highlights/",
+      "name": "Tuapse Refinery",
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "items": [
+        {
+          "2016": 9.84,
+          "2017": 11.03,
+          "2018": 10.75,
+          "name": "Throughput, mln. t."
+        },
+        {
+          "2016": 66.42,
+          "2017": 67.43,
+          "2018": 64.66,
+          "name": "Depth of processing, %"
+        },
+        {
+          "2016": 9.75,
+          "2017": 10.93,
+          "2018": 10.67,
+          "name": "Production of oil products, mln.t"
+        },
+        {
+          "2016": 1.93,
+          "2017": 2.25,
+          "2018": 2.05,
+          "name": "Gasoline (including straight-run)"
+        },
+        {
+          "2016": 2.92,
+          "2017": 3.32,
+          "2018": 3.19,
+          "name": "Diesel fuel"
+        },
+        {
+          "2016": 3.27,
+          "2017": 3.57,
+          "2018": 3.78,
+          "name": "Fuel oil"
+        }
+      ]
+    },
+    {
+      "slug": "KomsomolskRefinery",
+      "url": "https://komsomolskrefinery.rosneft.com/about/Rosneft_today/Operational_structure/Refining/KomsomolskRefinery/Operating_highlights/",
+      "name": "Komsomolsky Refinery",
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "items": [
+        {
+          "2016": 6.24,
+          "2017": 6.44,
+          "2018": 6.59,
+          "name": "Throughput, mln. t."
+        },
+        {
+          "2016": 79.83,
+          "2017": 89.23,
+          "2018": 89.14,
+          "name": "Depth of processing, %"
+        },
+        {
+          "2016": 6.08,
+          "2017": 6.32,
+          "2018": 6.43,
+          "name": "Production of oil products, mln.t"
+        },
+        {
+          "2016": 1.14,
+          "2017": 1.23,
+          "2018": 1.15,
+          "name": "Gasoline (including straight-run)"
+        },
+        {
+          "2016": 1.71,
+          "2017": 1.86,
+          "2018": 1.52,
+          "name": "Diesel fuel"
+        },
+        {
+          "2016": 1.22,
+          "2017": 0.66,
+          "2018": 0.68,
+          "name": "Fuel oil"
+        }
+      ]
+    },
+    {
+      "slug": "KuibyshevRefinery",
+      "url": "https://kuibyshevrefinery.rosneft.com/about/Rosneft_today/Operational_structure/Refining/KuibyshevRefinery/Operating_highlights/",
+      "name": "Kuibyshevsky Refinery",
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "items": [
+        {
+          "2016": 6.11,
+          "2017": 5.2,
+          "2018": 5.69,
+          "name": "Throughput, mln. t."
+        },
+        {
+          "2016": 60.15,
+          "2017": 65.38,
+          "2018": 65.14,
+          "name": "Depth of processing, %"
+        },
+        {
+          "2016": 5.62,
+          "2017": 4.82,
+          "2018": 5.24,
+          "name": "Production of oil products, mln.t"
+        },
+        {
+          "2016": 1.29,
+          "2017": 1.28,
+          "2018": 1.4,
+          "name": "Gasoline (including straight-run)"
+        },
+        {
+          "2016": 1.86,
+          "2017": 1.61,
+          "2018": 1.78,
+          "name": "Diesel fuel"
+        },
+        {
+          "2016": 2.29,
+          "2017": 1.69,
+          "2018": 1.88,
+          "name": "Fuel oil"
+        }
+      ]
+    },
+    {
+      "slug": "NovokuibyshevskRefinery",
+      "url": "https://novokuibyshevskrefinery.rosneft.com/about/Rosneft_today/Operational_structure/Refining/NovokuibyshevskRefinery/Operating_highlights/",
+      "name": "Novokuibyshevsky Refinery",
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "items": [
+        {
+          "2016": 7.13,
+          "2017": 8.05,
+          "2018": 6.95,
+          "name": "Throughput, mln. t."
+        },
+        {
+          "2016": 75.26,
+          "2017": 73.94,
+          "2018": 75.24,
+          "name": "Depth of processing, %"
+        },
+        {
+          "2016": 6.39,
+          "2017": 7.17,
+          "2018": 6.24,
+          "name": "Production of oil products, mln.t"
+        },
+        {
+          "2016": 1.38,
+          "2017": 1.42,
+          "2018": 1.27,
+          "name": "Gasoline (including straight-run)"
+        },
+        {
+          "2016": 1.8,
+          "2017": 2.21,
+          "2018": 1.98,
+          "name": "Diesel fuel"
+        },
+        {
+          "2016": 2.43,
+          "2017": 2.8,
+          "2018": 2.99,
+          "name": "Black oil and others"
+        }
+      ]
+    },
+    {
+      "slug": "SyzranRefinery",
+      "url": "https://syzranrefinery.rosneft.com/about/Rosneft_today/Operational_structure/Refining/SyzranRefinery/Operating_highlights/",
+      "name": "Syzran Refinery",
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "items": [
+        {
+          "2016": 6.32,
+          "2017": 5.94,
+          "2018": 6.91,
+          "name": "Throughput, mln. t."
+        },
+        {
+          "2016": 72.8,
+          "2017": 76.2,
+          "2018": 76.9,
+          "name": "Depth of processing, %"
+        },
+        {
+          "2016": 6.01,
+          "2017": 5.62,
+          "2018": 6.5,
+          "name": "Production of oil products, mln.t"
+        },
+        {
+          "2016": 1.37,
+          "2017": 1.26,
+          "2018": 1.41,
+          "name": "Gasoline (including straight-run)"
+        },
+        {
+          "2016": 2.01,
+          "2017": 1.96,
+          "2018": 2.35,
+          "name": "Diesel fuel"
+        },
+        {
+          "2016": 1.59,
+          "2017": 1.34,
+          "2018": 1.51,
+          "name": "Fuel oil"
+        }
+      ]
+    },
+    {
+      "slug": "AchinskRefinery",
+      "url": "https://achinskrefinery.rosneft.com/about/Rosneft_today/Operational_structure/Refining/AchinskRefinery/Operating_highlights/",
+      "name": "Achinsk Refinery",
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "items": [
+        {
+          "2016": 7.1,
+          "2017": 6.32,
+          "2018": 6.99,
+          "name": "Throughput, mln. t."
+        },
+        {
+          "2016": 69.78,
+          "2017": 70.42,
+          "2018": 69.55,
+          "name": "Depth of processing, %"
+        },
+        {
+          "2016": 6.86,
+          "2017": 6.05,
+          "2018": 6.71,
+          "name": "Production of oil products, mln.t"
+        },
+        {
+          "2016": 1.28,
+          "2017": 1.16,
+          "2018": 1.2,
+          "name": "Gasoline (including straight-run)"
+        },
+        {
+          "2016": 2.15,
+          "2017": 1.94,
+          "2018": 2.12,
+          "name": "Diesel fuel"
+        },
+        {
+          "2016": 2.01,
+          "2017": 1.75,
+          "2018": 2.01,
+          "name": "Fuel oil"
+        }
+      ]
+    },
+    {
+      "slug": "rnanhk",
+      "url": "https://rnanhk.rosneft.com/about/Rosneft_today/Operational_structure/Refining/rnanhk/Operating_highlights/",
+      "name": "Angarsk Petrochemical Company",
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "items": [
+        {
+          "2016": 9.2,
+          "2017": 9.62,
+          "2018": 9.04,
+          "name": "Throughput, mln. t."
+        },
+        {
+          "2016": 76.47,
+          "2017": 81.31,
+          "2018": 81.82,
+          "name": "Depth of processing, %"
+        },
+        {
+          "2016": 8.4,
+          "2017": 8.49,
+          "2018": 7.92,
+          "name": "Production of oil products, mln.t"
+        },
+        {
+          "2016": 2.2,
+          "2017": 1.48,
+          "2018": 1.49,
+          "name": "Gasoline (including straight-run)"
+        },
+        {
+          "2016": 2.6,
+          "2017": 2.7,
+          "2018": 2.37,
+          "name": "Diesel fuel"
+        },
+        {
+          "2016": 1.95,
+          "2017": 1.54,
+          "2018": 1.41,
+          "name": "Fuel oil"
+        }
+      ]
+    },
+    {
+      "slug": "sarnpz",
+      "url": "https://sarnpz.rosneft.com/about/Rosneft_today/Operational_structure/Refining/sarnpz/KeyIndicators/",
+      "name": "Saratovsky Refinery",
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "items": [
+        {
+          "2016": 5.9,
+          "2017": 5.77,
+          "2018": 6.71,
+          "name": "Throughput, mln. t."
+        },
+        {
+          "2016": 79.66,
+          "2017": 79.4,
+          "2018": 81.2,
+          "name": "Depth of processing, %"
+        },
+        {
+          "2016": 5.65,
+          "2017": 5.56,
+          "2018": 6.5,
+          "name": "Production of oil products, mln.t"
+        },
+        {
+          "2016": 1.17,
+          "2017": 1.12,
+          "2018": 1.36,
+          "name": "Gasoline (including straight-run)"
+        },
+        {
+          "2016": 1.78,
+          "2017": 1.76,
+          "2018": 2.14,
+          "name": "Diesel fuel"
+        },
+        {
+          "2016": 2.34,
+          "2017": 2.64,
+          "2018": 3,
+          "name": "Black oil and others"
+        }
+      ]
+    },
+    {
+      "slug": "rnpk",
+      "url": "https://rnpk.rosneft.com/about/Rosneft_today/Operational_structure/Refining/rnpk/KeyIndicators/",
+      "name": "Ryazan Oil Refining Company",
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "items": [
+        {
+          "2016": 15.35,
+          "2017": 13.34,
+          "2018": 15.51,
+          "name": "Throughput, mln. t."
+        },
+        {
+          "2016": 69.77,
+          "2017": 70.75,
+          "2018": 70.73,
+          "name": "Depth of processing, %"
+        },
+        {
+          "2016": 14.72,
+          "2017": 12.92,
+          "2018": 1494,
+          "name": "Production of oil products, mln.t"
+        },
+        {
+          "2016": 3.47,
+          "2017": 3.28,
+          "2018": 3.23,
+          "name": "Gasoline (including straight-run)"
+        },
+        {
+          "2016": 3.74,
+          "2017": 3.08,
+          "2018": 3.81,
+          "name": "Diesel fuel"
+        },
+        {
+          "2016": 4.52,
+          "2017": 3.82,
+          "2018": 4.46,
+          "name": "Fuel oil"
+        }
+      ]
+    }
+  ]
+}

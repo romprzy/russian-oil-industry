@@ -1,0 +1,53 @@
+.round-marker {
+  background: rgba(var(--v-theme-info), .5);
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid white;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .marker-title {
+    position: absolute;
+    bottom: 50%;
+    margin-bottom: 1em;
+    padding: .15em .25em;
+    background: rgba(0, 0, 0, .5);
+    //text-outline: black;
+    text-shadow: 1px 1px 1px #000, -1px -1px 1px #000;
+  }
+
+  .marker-value {
+    font-size: 16px;
+    font-weight: 700;
+    padding: .2em .35em;
+    background: rgba(0, 0, 0, .15);
+  }
+}
+
+.gm-style-iw.gm-style-iw-c {
+  padding: 0;
+  padding-inline-end: 56px !important;
+  background: rgba(0, 0, 0, .85);
+
+  .gm-style-iw-chr {
+    position: absolute;
+    right: 0;
+    filter: invert(1);
+  }
+
+  .gm-style-iw-d {
+    max-height: none !important;
+    overflow: visible !important;
+    width: calc(100% + 56px) !important;
+  }
+}
+
+.google-maps-marker-content {
+  //padding: 12px;
+
+  &__title {
+    width: calc(100% - 32px);
+  }
+}
