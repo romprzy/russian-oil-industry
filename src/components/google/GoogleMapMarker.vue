@@ -49,8 +49,9 @@ const size = 20 * Math.sqrt(amount.value || 2)
 
 const contentString = getRefineryContent(props.item)
 
-const consequences = computed(() => props.item.attacks.map(attack => attack.consequences))
+const consequences = computed(() => props.item.attacks?.map(attack => attack.consequences))
 const consequence = computed(() => {
+  if (!consequences.value) return false
   if (consequences.value.includes('wyłączenie')) return 'full'
   if (consequences.value.includes('częściowe')) return 'part'
   if (consequences.value.includes('brak')) return 'none'
@@ -77,6 +78,24 @@ onMounted(() => {
       map: props.map,
     })
   })
+
+  const featureLayer = props.map.getFeatureLayer("COUNTRY");
+
+  // Define the styling options
+  const featureStyleOptions = {
+    strokeColor: "#FF0000",
+    strokeOpacity: 1.0,
+    strokeWeight: 1.0,
+    fillOpacity: 0,
+  };
+
+  // Apply the style to a single boundary.
+  featureLayer.style = (options) => {
+    if (options.feature.placeId == "ChIJYW1Zb-9kjEcRFXvLDxG1Vlw") {
+      // Above Place ID is Switzerland
+      return featureStyleOptions;
+    }
+  };
 })
 
 const markerValue = computed(() => amount.value && props.valueKey

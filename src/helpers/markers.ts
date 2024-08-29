@@ -62,7 +62,7 @@ export const getRefineryContent = (item) =>
       </div>
       <div class="mb-1">
         <span class="text-caption text-secondary">Attacks:</span>
-        <strong class="font-weight-black text-info text-body-1">${ item.attacks.map(attack => attack.consequences).join(', ') }</strong>
+        <strong class="font-weight-black text-info text-body-1">${ item.attacks?.map(attack => attack.consequences).join(', ') }</strong>
       </div>
       <div class="mt-2">
         <span class="text-caption text-secondary">%:</span>
